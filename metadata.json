@@ -1,0 +1,6 @@
+{
+  "name": "suber Kenzo",
+  "description": "suber Kenzo - Gift From me. A responsive 2D side-scrolling platformer with smooth physics, stompable and spiked enemies, and original sound synthesis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
